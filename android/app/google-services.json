@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "950097637908",
+    "project_id": "travelling-buddy",
+    "storage_bucket": "travelling-buddy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950097637908:android:78f0cf056895680c836d01",
+        "android_client_info": {
+          "package_name": "com.travaling.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlXgdE7eu-5D3-eKELzv6IKtA837odEcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
